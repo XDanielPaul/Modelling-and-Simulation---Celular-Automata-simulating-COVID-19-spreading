@@ -10,9 +10,7 @@ Program je potrebne pred spustením preloziť príkazom make. Príkazom make run
 
 • -i < floatvalue > - percento ľudí, ktorí su infikovaní. [potrebný]
 
-• -c < intvalue > - veľkosť mesta (<600> − > 600*600 = 360000). Pozn: veľkosť mesta/veľkosť
-
-populacie = hustota populácie [potrebný]
+• -c < intvalue > - veľkosť mesta (<600> − > 600*600 = 360000). Pozn: veľkosť mesta/veľkosť populacie = hustota populácie [potrebný]
 
 • -d < intvalue > - pocet dní po ktorych sa periodicky vykoná testovanie. (ak je hodnota -1, testovanie sa
 nevykonáva) [potrebný]

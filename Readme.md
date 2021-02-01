@@ -1,5 +1,7 @@
 Vypracovali:
+
 Simulačný program a dokumentácia: Daniel Paul (xpauld00)
+
 Zber, analýza dát a dokumentácia: Peter Koprda (xkoprd00)
  
 ## Popis a použitie

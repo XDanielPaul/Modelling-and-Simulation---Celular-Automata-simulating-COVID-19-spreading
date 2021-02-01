@@ -3,7 +3,9 @@ Login: xpauld00
  
 ## Popis a použitie
 Implementácia v jazyku C++ simuluje šírenie nákazy COVID-19 s prípadným pravidelným testovaním.
+
 Prerekvizity - OPENGL, C++, Linux.
+
 Program je potrebne pred spustením preloziť príkazom make. Príkazom make run sa program spustí s predpripravenymi nastaveniami a odsimuluje 3 predpripravené experimenty. Program sa dá spustiť aj príkazom
 ./bin/main s nasledujúcimi argumentami:
 

@@ -1,5 +1,6 @@
-Meno a priezvisko: Daniel Paul 
-Login: xpauld00
+Vypracovali:
+Simulačný program a dokumentácia: Daniel Paul (xpauld00)
+Zber, analýza dát a dokumentácia: Peter Koprda (xkoprd00)
  
 ## Popis a použitie
 Implementácia v jazyku C++ simuluje šírenie nákazy COVID-19 s prípadným pravidelným testovaním.
